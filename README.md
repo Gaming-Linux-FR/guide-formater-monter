@@ -1,5 +1,9 @@
 # Guide débutant pour formater et monter au démarrage ses disques / SSD internes sur Linux
 
+Vidéo de démonstration en utilisant Partition Manager de Plasma au lieu de Gnome Disque : 
+
+<img src="https://github.com/Cardiacman13/tuto-archlinux-fr/blob/main/assets/images/Cardiac-icon.png" width="30" height="30"> [ Formater et monter au démarrage un SSD ou disque interne sur Linux ](https://www.youtube.com/watch?v=z7aqPGs_YWQ)
+
 ## Formater
 
 Pour cette tâche, je vous recommande d'utiliser Gnome Disks, accessible facilement depuis la logithèque de votre distribution. Il fonctionne aussi bien sur Gnome que sur KDE ou autres DE.
