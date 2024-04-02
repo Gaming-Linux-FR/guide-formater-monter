@@ -4,7 +4,7 @@
 
 Pour cette tâche, je vous recommande d'utiliser Gnome Disks, accessible facilement depuis la logithèque de votre distribution. Il fonctionne aussi bien sur Gnome que sur KDE ou autres DE.
 
-1. **Installer Gnome Disques**: Cet outil facilite la gestion de vos disques. Vous le trouverez en cherchant "disques" dans la logithèque de votre distribution. Il est généralement près installé suu les distributions utilisants Gnome.
+1. **Installer Gnome Disques**: Cet outil facilite la gestion de vos disques. Vous le trouverez en cherchant "disques" dans la logithèque de votre distribution. Il est généralement près installé sur les distributions utilisants Gnome.
 
    ![Ouvrir Gnome Disks](https://github.com/Gaming-Linux-FR/guide-formater-monter/assets/83916775/bd37277a-e24e-400b-9f3e-fa4866fad21c)
 
